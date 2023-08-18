@@ -1,1 +1,2 @@
-<? include "/core/App.php" ?>
+<? include "core/App.php" ?>
+<?= app() -> rendering() ?>
